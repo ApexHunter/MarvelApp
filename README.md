@@ -1,2 +1,0 @@
-# MarvelApp
-Created with CodeSandbox
